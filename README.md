@@ -1,3 +1,6 @@
+A single-page web application made with Vue.js.
+Search for movies that are made in 2020
+
 # movie-v2
 
 ## Project setup
